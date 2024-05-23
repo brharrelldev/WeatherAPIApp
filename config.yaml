@@ -1,0 +1,5 @@
+host: "localhost"
+port: "3000"
+weather_base_url: "api.openweathermap.org"
+current_weather_endpoint: "data/2.5/weather"
+geo_endpoint: 'geo/1.0/direct'
