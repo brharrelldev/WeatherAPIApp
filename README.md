@@ -16,6 +16,8 @@ This is just a simple app that takes a city and state, then it gives the current
 
 
 ## Running Code
+Inside the `Makefile` there is `API_KEY`.  Replace this with your actual API key before running
+
 
 To build code simply run:
 
@@ -29,7 +31,6 @@ In case you need to run it with a debugger in your IDE (like delve), run:
 
 ```make debug-run```
 
-Inside the `Makefile` there is `API_KEY`.  Replace this with your actual API key before running
 
 How to make a request:
 
